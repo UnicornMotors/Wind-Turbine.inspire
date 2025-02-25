@@ -9,4 +9,4 @@ let engineering = [(How Wind Turbines Really Work: The Hidden Secrets,https://yo
 
 let ultura.map = [(The Problem with Wind Energy,https://youtu.be/LklUVkMPl8g);
 
-let by.TNT_Omnibus = [(009 The Folding Wind Turbine,https://youtu.be/_hBxYnSJSoo),(002 Dual Rotor Wind Turbine Complete Build,https://youtu.be/Q50qpVm2NJU)];
+let by.TNT_Omnibus = [(009 The Folding Wind Turbine,https://youtu.be/_hBxYnSJSoo),(002 Dual Rotor Wind Turbine Complete Build,https://youtu.be/Q50qpVm2NJU),(Man In A Shed Episode 10 - The Vortex Wind Turbine Omnibus,https://youtu.be/5sQY6vM6_gk)];
